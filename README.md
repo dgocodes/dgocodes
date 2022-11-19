@@ -6,8 +6,8 @@
 Atuo como desenvolvedor .NET desde 2014.
 
 - 📚 <b>Banco de dados na Faculdade de tecnologia de Bauru - Concluso em 2017</b>
-- 📚 <b>Engenharia de Software para Aplicações Web e Mobile - Em curso</b>
 - 🚀 <b>Atualmente trabalhando com .NET e focando em Desenvolvimento Web</b>
+- 🔭 <b>Atualmente trabalhando na Invillia - Alocado no cliente Via Varejo como Desenvolvedor .NET Sênior</b>
 
 <hr>
 
