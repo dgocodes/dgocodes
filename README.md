@@ -9,6 +9,7 @@ Atuo como desenvolvedor .NET desde 2014.
 - 🚀 <b>Atualmente trabalhando com .NET e focando em Desenvolvimento Web</b>
 - 🔭 <b>Atualmente trabalhando na Invillia - Alocado no cliente Via Varejo como Desenvolvedor .NET Sênior</b>
 
+<!--
 <hr>
 
 <center>
@@ -18,13 +19,12 @@ Atuo como desenvolvedor .NET desde 2014.
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=sisdperillo&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisdperillo&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgococes&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
       </tr>  
     </table>
 </center>
 
 
-<!--
 **sisdperillo/sisdperillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
